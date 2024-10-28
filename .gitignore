@@ -2,6 +2,7 @@
 /tmp
 /.DS_Store
 
+.cache
 # Archivos de caché
 /node_modules
 /.cache
